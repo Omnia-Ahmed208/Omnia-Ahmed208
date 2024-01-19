@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 ## About me
-- ✌️ I’m graduated from faculty of science, computer science department.
-- 👨‍💻 I’m Full Stack Developer.
-- 💻 I’m trained at information technology institute (iti) <br>
-      for Full Stack Web Dev using PHP 😄
+- ✌️  I graduated from the Faculty of Science, Computer Science Department.
+- 👨‍💻 I'm a Full Stack Developer.
+- 💻 I'm trained at the Information Technology Institute (ITI) <br>
+      for Full Stack Web Development using PHP. 😄
 
 ## Skills
 <!--    * HTML / CSS ====================
