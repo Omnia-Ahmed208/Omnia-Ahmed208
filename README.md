@@ -6,7 +6,7 @@
 - ✌️  I graduated from the Faculty of Science, Computer Science Department.
 - 👨‍💻 I'm a Full Stack Developer.
 - 💻 I'm trained at the Information Technology Institute (ITI) <br>
-      for Full Stack Web Development using PHP. 😄
+      for Full Stack Web Development using PHP. 
 
 ## Skills
 <!--    * HTML / CSS ====================
