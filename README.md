@@ -75,9 +75,13 @@
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
       </a>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <!-- <a href="https://laravel.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+      </a> -->
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
       </a>
+
 </p>
 
   ## Find me around the web 🌎: <a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="120" src="https://img.icons8.com/color/2x/laptop.png"></a>
