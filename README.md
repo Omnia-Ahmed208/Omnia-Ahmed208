@@ -90,7 +90,7 @@
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmniaAhmed208&theme=github)
-![](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
 <!-- Comments
 ### Hi there 👋
