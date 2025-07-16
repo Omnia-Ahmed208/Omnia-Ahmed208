@@ -93,6 +93,13 @@
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=github)
+
+![Omnia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaAhmed208&layout=compact&theme=github_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=github_dark)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmniaAhmed208&theme=github_dark)
+
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmniaAhmed208&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&theme=default&hide_border=false&include_all_commits=true&count_private=true)
