@@ -92,12 +92,12 @@
 
 
 # 📊 GitHub Stats:
+<!--number of repo in each language -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaAhmed208&layout=compact&theme=github_dark)
-
+<!--number of programing lines -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaAhmed208&layout=compact&theme=github)
 
 <!--
-
 ![Omnia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=github_dark)
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmniaAhmed208&theme=github_dark)
