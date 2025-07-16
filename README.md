@@ -94,10 +94,12 @@
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmniaAhmed208&theme=github)
+![Omnia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&show_icons=true&count_private=true&include_all_commits=true)
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&count_private=true&include_all_commits=true&cache_seconds=1800&v=1)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmniaAhmed208&theme=default&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=3)
-
+-->
 <!-- Comments
 ### Hi there 👋
 **OmniaAhmed208/OmniaAhmed208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
