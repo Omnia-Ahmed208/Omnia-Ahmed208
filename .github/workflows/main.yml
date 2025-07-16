@@ -1,18 +1,1 @@
-name: Update GitHub Stats
 
-on:
-  schedule:
-    - cron: "0 */12 * * *" # يحدث كل 12 ساعة
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
